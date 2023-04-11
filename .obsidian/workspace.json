@@ -42,32 +42,21 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "2a798034dab1d8d3",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "2b7ce8ba31bcd556",
+            "id": "ba5dd7290a7b352a",
             "type": "leaf",
             "state": {
-              "type": "media-view",
+              "type": "markdown",
               "state": {
-                "info": {
-                  "host": 1,
-                  "id": "BV1X7411F744/",
-                  "src": "https://www.bilibili.com/video/BV1X7411F744/?p=6&share_source=copy_web&vd_source=aa209ea29658dbf3c71864711aa75109",
-                  "iframe": "https://player.bilibili.com/player.html?bvid=BV1X7411F744/&page=6&high_quality=1&danmaku=0",
-                  "hash": ""
-                },
-                "currentTime": 3774.626796
+                "file": "GAMES101/7. Shading 1 (Illumination, Shading and Graphics Pipeline).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,15 +179,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2b7ce8ba31bcd556",
+  "active": "1528c85f348d9759",
   "lastOpenFiles": [
-    "GAMES101/6. Rasterization 2 (Antialiasing and Z-Buffering).md",
-    "GAMES101/1. Overview of Computer Graphics.md",
+    "GAMES101/7. Shading 1 (Illumination, Shading and Graphics Pipeline).md",
+    "GAMES101/4. Transformation Cont..md",
     "GAMES101/5. Rasterization 1 (Triangles).md",
+    "GAMES101/6. Rasterization 2 (Antialiasing and Z-Buffering).md",
+    "GAMES101/Assets/Pasted image 20230412011917.png",
+    "GAMES101/Assets/Pasted image 20230412010423.png",
+    "GAMES101/1. Overview of Computer Graphics.md",
     "GAMES101/2. Review of Linear Algebra.md",
     "GAMES101/Assets/Pasted image 20230409230734.png",
     "GAMES101/3. Transformation.md",
-    "GAMES101/4. Transformation Cont..md",
     "GAMES101/Assets/Pasted image 20230408211731.png",
     "GAMES101/Assets/Pasted image 20230408181318.png",
     "GAMES101/Assets/Pasted image 20230404012627.png",
