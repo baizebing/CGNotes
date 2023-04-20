@@ -4,90 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "03f2baafd14d6bd2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1b3e2fd3aacc1e55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GAMES101/7. Shading 1 (Illumination, Shading and Graphics Pipeline).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a261774cf61c439b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GAMES101/8. Shading 2 (Shading, Pipeline and Texture Mapping).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7357bb6e1a6e22a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GAMES101/1. Overview of Computer Graphics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9208f0a21ae0febd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GAMES101/6. Rasterization 2 (Antialiasing and Z-Buffering).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba5dd7290a7b352a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GAMES101/7. Shading 1 (Illumination, Shading and Graphics Pipeline).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "dd0d7d5c58760bea",
         "type": "tabs",
         "children": [
           {
-            "id": "9dcbd066fe29c5a0",
+            "id": "62c0ff47e125585b",
             "type": "leaf",
             "state": {
-              "type": "media-view",
+              "type": "markdown",
               "state": {
-                "info": {
-                  "host": 1,
-                  "id": "BV1X7411F744/",
-                  "src": "https://www.bilibili.com/video/BV1X7411F744/?p=8&share_source=copy_web&vd_source=aa209ea29658dbf3c71864711aa75109",
-                  "iframe": "https://player.bilibili.com/player.html?bvid=BV1X7411F744/&page=8&high_quality=1&danmaku=0",
-                  "hash": ""
-                },
-                "currentTime": 2870.12323
+                "file": "GAMES101/9. Shading 3 (Texture Mapping Cont.).md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -157,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GAMES101/9. Shading 3 (Texture Mapping Cont.).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GAMES101/9. Shading 3 (Texture Mapping Cont.).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GAMES101/9. Shading 3 (Texture Mapping Cont.).md"
+              }
             }
           }
         ]
@@ -214,8 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9dcbd066fe29c5a0",
+  "active": "62c0ff47e125585b",
   "lastOpenFiles": [
+    "GAMES101/9. Shading 3 (Texture Mapping Cont.).md",
+    "GAMES101/Assets/Pasted image 20230421011632.png",
     "GAMES101/8. Shading 2 (Shading, Pipeline and Texture Mapping).md",
     "GAMES101/Assets/Pasted image 20230418230014.png",
     "GAMES101/6. Rasterization 2 (Antialiasing and Z-Buffering).md",
