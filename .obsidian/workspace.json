@@ -31,13 +31,48 @@
               "type": "markdown",
               "state": {
                 "file": "GAMES101/11. Geometry 2 (Curves and Surfaces).md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24d86d028fada227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GAMES101/12. Geometry 3.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "da68571668cab79e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ed6c6f5419ee464",
+            "type": "leaf",
+            "state": {
+              "type": "media-view",
+              "state": {
+                "info": {
+                  "host": 1,
+                  "id": "BV1X7411F744/",
+                  "src": "https://www.bilibili.com/video/BV1X7411F744/?p=12",
+                  "iframe": "https://player.bilibili.com/player.html?bvid=BV1X7411F744/&page=12&high_quality=1&danmaku=0",
+                  "hash": ""
+                },
+                "currentTime": 3609.893969
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GAMES101/11. Geometry 2 (Curves and Surfaces).md",
+                "file": "GAMES101/12. Geometry 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GAMES101/11. Geometry 2 (Curves and Surfaces).md",
+                "file": "GAMES101/12. Geometry 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GAMES101/11. Geometry 2 (Curves and Surfaces).md"
+                "file": "GAMES101/12. Geometry 3.md"
               }
             }
           }
@@ -164,9 +199,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f20c86cc397ed055",
+  "active": "24d86d028fada227",
   "lastOpenFiles": [
+    "GAMES101/Assets/Pasted image 20230425233416.png",
+    "GAMES101/12. Geometry 3.md",
+    "GAMES101/Assets/Pasted image 20230425232709.png",
+    "GAMES101/Assets/Pasted image 20230425224850.png",
+    "GAMES101/Assets/Pasted image 20230425224836.png",
+    "GAMES101/Assets/Pasted image 20230425224449.png",
     "GAMES101/11. Geometry 2 (Curves and Surfaces).md",
+    "GAMES101/1. Overview of Computer Graphics.md",
     "GAMES101/3. Transformation.md",
     "GAMES101/4. Transformation Cont..md",
     "GAMES101/10. Geometry 1 (Introduction).md",
@@ -177,16 +219,11 @@
     "GAMES101/6. Rasterization 2 (Antialiasing and Z-Buffering).md",
     "GAMES101/7. Shading 1 (Illumination, Shading and Graphics Pipeline).md",
     "GAMES101/Assets/Pasted image 20230418224202.png",
-    "GAMES101/1. Overview of Computer Graphics.md",
     "GAMES101/5. Rasterization 1 (Triangles).md",
     "GAMES101/Assets/Pasted image 20230412011917.png",
     "GAMES101/Assets/Pasted image 20230412010423.png",
     "GAMES101/2. Review of Linear Algebra.md",
     "GAMES101/Assets/Pasted image 20230409230734.png",
-    "GAMES101/Assets/Pasted image 20230408211731.png",
-    "GAMES101/Assets/Pasted image 20230408181318.png",
-    "GAMES101/Assets/Pasted image 20230404012627.png",
-    "GAMES101/Assets/Pasted image 20230408152500.png",
     "GAMES101/Assets",
     "未命名",
     "GAMES101"
