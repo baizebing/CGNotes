@@ -8,29 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2974e0e67a40bec6",
-            "type": "leaf",
-            "state": {
-              "type": "media-view",
-              "state": {
-                "info": {
-                  "host": 1,
-                  "id": "BV1X7411F744/",
-                  "src": "https://www.bilibili.com/video/BV1X7411F744/?p=10&share_source=copy_web&vd_source=aa209ea29658dbf3c71864711aa75109",
-                  "iframe": "https://player.bilibili.com/player.html?bvid=BV1X7411F744/&page=10&high_quality=1&danmaku=0",
-                  "hash": ""
-                },
-                "currentTime": 4065.790076
-              }
-            }
-          },
-          {
             "id": "f20c86cc397ed055",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GAMES101/11. Geometry 2 (Curves and Surfaces).md",
+                "file": "GAMES101/17. Materials and Appearance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d270671fa092840a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GAMES101/21. Animation.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +56,14 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
-        "id": "c60b04a8ca642f22",
+        "id": "43de5acc410a51a8",
         "type": "tabs",
         "children": [
           {
-            "id": "47a3b3fa6e579255",
+            "id": "3ffc9ed4aa1a214e",
             "type": "leaf",
             "state": {
               "type": "media-view",
@@ -76,11 +71,11 @@
                 "info": {
                   "host": 1,
                   "id": "BV1X7411F744/",
-                  "src": "https://www.bilibili.com/video/BV1X7411F744/?p=13",
-                  "iframe": "https://player.bilibili.com/player.html?bvid=BV1X7411F744/&page=13&high_quality=1&danmaku=0",
+                  "src": "https://www.bilibili.com/video/BV1X7411F744/?p=21",
+                  "iframe": "https://player.bilibili.com/player.html?bvid=BV1X7411F744/&page=21&high_quality=1&danmaku=0",
                   "hash": ""
                 },
-                "currentTime": 4361.252256
+                "currentTime": 4257.407847
               }
             }
           }
@@ -129,12 +124,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "8d6434d9bb9d476c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7c145fa20b48d82a",
@@ -207,8 +211,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "47a3b3fa6e579255",
+  "active": "3ffc9ed4aa1a214e",
   "lastOpenFiles": [
+    "GAMES101/21. Animation.md",
+    "GAMES101/Assets/Pasted image 20230803133900.png",
+    "GAMES101/7. Shading 1 (Illumination, Shading and Graphics Pipeline).md",
+    "GAMES101/6. Rasterization 2 (Antialiasing and Z-Buffering).md",
+    "GAMES101/5. Rasterization 1 (Triangles).md",
+    "GAMES101/17. Materials and Appearance.md",
+    "GAMES101/11. Geometry 2 (Curves and Surfaces).md",
     "GAMES101/13. Ray Tracing 1.md",
     "GAMES101/9. Shading 3 (Texture Mapping Cont.).md",
     "GAMES101/2. Review of Linear Algebra.md",
@@ -217,7 +228,6 @@
     "GAMES101/Assets/Pasted image 20230503121717.png",
     "GAMES101/Assets/Pasted image 20230503121315.png",
     "GAMES101/12. Geometry 3.md",
-    "GAMES101/11. Geometry 2 (Curves and Surfaces).md",
     "GAMES101/Assets/Pasted image 20230425233416.png",
     "GAMES101/Assets/Pasted image 20230425232709.png",
     "GAMES101/Assets/Pasted image 20230425224850.png",
@@ -228,10 +238,6 @@
     "GAMES101/10. Geometry 1 (Introduction).md",
     "GAMES101/Assets/Pasted image 20230421011632.png",
     "GAMES101/8. Shading 2 (Shading, Pipeline and Texture Mapping).md",
-    "GAMES101/Assets/Pasted image 20230418230014.png",
-    "GAMES101/6. Rasterization 2 (Antialiasing and Z-Buffering).md",
-    "GAMES101/7. Shading 1 (Illumination, Shading and Graphics Pipeline).md",
-    "GAMES101/5. Rasterization 1 (Triangles).md",
     "GAMES101/Assets",
     "未命名",
     "GAMES101"
